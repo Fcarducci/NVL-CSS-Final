@@ -1,0 +1,95 @@
+.blog{
+margin: 12px;
+border: 2px solid black;
+padding-left: 20px;
+padding-bottom: 20px;
+padding-right: 20px;
+background-color: rgb(106, 151, 136);
+}
+
+.principal{
+    display: inline-flex;
+    
+}
+
+.ayuda{
+    display: inline-flex;
+    margin-left: 12px;
+}
+
+.contacto {
+    display: inline-flex;
+    margin-left: 12px;
+}
+
+.encabezado{
+    border-bottom: 2px solid black;
+}
+
+.contenido{
+    display: flex;
+}
+
+.columna1{
+    font-size: x-large;
+    width: 20%;
+}
+
+.columna1 ul li{
+    margin-bottom: 30px;
+}
+
+.columna2{
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+.columna3{
+    margin-left: 10%;
+    width: 30%;
+    margin-top: 3%;
+}
+
+blockquote{
+    text-align: center;
+    border: 2px solid black;
+    padding: 40px;
+    background-color: silver;
+}
+
+article footer{
+    text-align: right;
+}
+
+.pie{
+    border-top: 2px solid black;
+    text-align: center;
+}
+
+time{
+    color: rgb(71, 69, 69);
+}
+
+article{
+    border: 2px solid black;
+    margin-bottom: 12px;
+    padding: 15px;
+    background-color:  rgb(50, 108, 110);
+}
+
+.facebook{
+    width: 3%;
+}
+
+.youtube{
+    width: 3%;
+}
+
+.linkedin{
+    width: 3%;
+}
+
+.instagram{
+    width: 4.5%;
+}
